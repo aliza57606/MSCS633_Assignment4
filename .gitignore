@@ -1,0 +1,13 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Kaggle dataset (too large for GitHub)
+data/
+
+# macOS system files
+.DS_Store
